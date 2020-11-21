@@ -132,7 +132,6 @@ class _IntroPageState extends State<IntroPage>{
       }else{
         indicators.add(_indicator(false));
       }
-
     }
     return indicators;
   }
